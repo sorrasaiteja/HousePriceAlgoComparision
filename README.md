@@ -1,2 +1,2 @@
 # HousePriceAlgoComparision
-IIT Roorke Project Under Sumit Kumar Yadav
+IIT Roorkee Project Under Sumit Kumar Yadav
